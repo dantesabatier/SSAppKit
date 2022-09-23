@@ -1,0 +1,13 @@
+//
+//  SSDarkSearchField.h
+//  SSAppKit
+//
+//  Created by Dante Sabatier on 12/12/14.
+//
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface SSDarkSearchField : NSSearchField
+
+@end
